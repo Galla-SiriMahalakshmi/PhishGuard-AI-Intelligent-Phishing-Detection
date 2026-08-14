@@ -1,4 +1,4 @@
-Phishing Website Detection
+PhishGuard-AI-Intelligent-Phishing-Detection
 
 📌 Project Overview
 
